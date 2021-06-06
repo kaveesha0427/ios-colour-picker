@@ -58,8 +58,8 @@
 		146D16D1266AE023001535D0 /* colourPicker */ = {
 			isa = PBXGroup;
 			children = (
-				146D16D2266AE023001535D0 /* AppDelegate.swift */,
 				146D16D4266AE023001535D0 /* SceneDelegate.swift */,
+				146D16D2266AE023001535D0 /* AppDelegate.swift */,
 				146D16D6266AE023001535D0 /* ViewController.swift */,
 				146D16D8266AE023001535D0 /* Main.storyboard */,
 				146D16DB266AE026001535D0 /* Assets.xcassets */,
